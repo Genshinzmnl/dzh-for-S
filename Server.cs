@@ -13,7 +13,7 @@ public class GameServer
     private int _currentThreads;
     private string _configPath = "Config/config.json";
 
-    public GameServer(int port)
+    public void Connect(int port)
     {
         _port = port;
         _players = new List<Player>();
@@ -88,7 +88,7 @@ public class GameServer
                     {
                         ProcessMessage(player, message);
                     }
-                    BroadcastGameState();
+                    //BroadcastGameState();
                 }
                 catch (Exception ex)
                 {

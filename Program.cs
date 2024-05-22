@@ -6,9 +6,9 @@ namespace dzh_for_S
     {
         static void Main(string[] args)
         {
-            GameServer S = new GameServer
+            GameServer S = new GameServer();
             
-            S.GameServer(26666);
+            S.Connect(26666);
             S.Start();
         }
     }

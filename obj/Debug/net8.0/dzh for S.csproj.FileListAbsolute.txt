@@ -1,0 +1,18 @@
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.csproj.AssemblyReference.cache
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.GeneratedMSBuildEditorConfig.editorconfig
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.AssemblyInfoInputs.cache
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.AssemblyInfo.cs
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.csproj.CoreCompileInputs.cache
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.sourcelink.json
+G:\BCS\dzh-for-S\bin\Debug\net8.0\dzh for S.exe
+G:\BCS\dzh-for-S\bin\Debug\net8.0\dzh for S.deps.json
+G:\BCS\dzh-for-S\bin\Debug\net8.0\dzh for S.runtimeconfig.json
+G:\BCS\dzh-for-S\bin\Debug\net8.0\dzh for S.dll
+G:\BCS\dzh-for-S\bin\Debug\net8.0\dzh for S.pdb
+G:\BCS\dzh-for-S\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.csproj.Up2Date
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.dll
+G:\BCS\dzh-for-S\obj\Debug\net8.0\refint\dzh for S.dll
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.pdb
+G:\BCS\dzh-for-S\obj\Debug\net8.0\dzh for S.genruntimeconfig.cache
+G:\BCS\dzh-for-S\obj\Debug\net8.0\ref\dzh for S.dll

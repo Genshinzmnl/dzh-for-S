@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sz\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\tasdw\\.nuget\\packages\\": {},
+    "E:\\共享组件、工具、SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\桌面\\work\\dzh for S\\dzh for S.csproj",
+      "projectUniqueName": "G:\\BCS\\dzh-for-S\\dzh for S.csproj",
       "projectName": "dzh for S",
-      "projectPath": "D:\\桌面\\work\\dzh for S\\dzh for S.csproj",
-      "packagesPath": "C:\\Users\\sz\\.nuget\\packages\\",
-      "outputPath": "D:\\桌面\\work\\dzh for S\\obj\\",
+      "projectPath": "G:\\BCS\\dzh-for-S\\dzh for S.csproj",
+      "packagesPath": "C:\\Users\\tasdw\\.nuget\\packages\\",
+      "outputPath": "G:\\BCS\\dzh-for-S\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\共享组件、工具、SDK\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tasdw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -125,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
