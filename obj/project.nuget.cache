@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OWIaVapzMthTB6KG9ZzMC33sCW8ioKySvFLSQN2UYZahQU+W9tlQnB83Ij80v3qG5dtxelV8UrSTQ4HrL53+5A==",
+  "dgSpecHash": "wg3Bqna6seGWn7gyNgG12cE1tBSvxu8Wg2rTZAl5NWZaTDcwUiNzFltUmc3eOWc1OC7Ja1leEAQmLWAKwT6Llw==",
   "success": true,
-  "projectFilePath": "D:\\桌面\\work\\dzh for S\\dzh for S.csproj",
+  "projectFilePath": "G:\\BCS\\dzh-for-S\\dzh for S.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\tasdw\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
