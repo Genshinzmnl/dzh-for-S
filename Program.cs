@@ -6,8 +6,10 @@ namespace dzh_for_S
     {
         static void Main(string[] args)
         {
-            var server = new Server(26666);
-            server.Start();
+            GameServer S = new GameServer
+            
+            S.GameServer(26666);
+            S.Start();
         }
     }
 }
